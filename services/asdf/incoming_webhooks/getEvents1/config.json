@@ -1,0 +1,11 @@
+{
+    "id": "5baa544d0c4db114593adee3",
+    "name": "getEvents1",
+    "run_as_user_id": "",
+    "run_as_user_id_script_source": "",
+    "options": {
+        "httpMethod": "GET",
+        "validationMethod": "NO_VALIDATION"
+    },
+    "respond_result": true
+}

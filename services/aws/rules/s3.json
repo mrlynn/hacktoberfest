@@ -1,0 +1,7 @@
+{
+    "id": "5bab9aaddced5f5100681bb7",
+    "name": "s3",
+    "actions": [
+        "s3:*"
+    ]
+}
