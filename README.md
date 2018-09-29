@@ -1,5 +1,5 @@
 ![Hacktoberfest Header](https://i.imgur.com/0qxOFSJ.png)
-# Welcome to the MongoDB Hacktoberfest wiki!
+# Welcome to the MongoDB's Hacktoberfest Repository!
 
 ## What is Hacktoberfest?
 Hacktoberfest is a month-long celebration of open source software. Started originally by our friends at [Digital Ocean](http://digitalocean.com)
