@@ -1,3 +1,4 @@
+![Hacktoberfest Header](https://i.imgur.com/0qxOFSJ.png)
 # Welcome to the hacktoberfest wiki!
 
 ## What is Hacktoberfest?
