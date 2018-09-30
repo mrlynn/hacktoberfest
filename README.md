@@ -1,5 +1,4 @@
-![MongoDB Leafie](./leafie-fang.png)
-![Hacktoberfest Header](https://i.imgur.com/0qxOFSJ.png)
+![Hacktoberfest Header](./stitch-hacktoberfest-header.png)
 # Welcome to the MongoDB's Hacktoberfest Repository!
 
 ## What is Hacktoberfest?
