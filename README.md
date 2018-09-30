@@ -1,3 +1,4 @@
+![MongoDB Leafie](https://i.imgur.com/0qxOFSJ.png)
 ![Hacktoberfest Header](https://i.imgur.com/0qxOFSJ.png)
 # Welcome to the MongoDB's Hacktoberfest Repository!
 
